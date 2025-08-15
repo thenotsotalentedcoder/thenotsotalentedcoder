@@ -73,15 +73,10 @@ I'm a **Computer Science student** at NED University with a passion for building
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Contribution Consistency
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thenotsotalentedcoder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thenotsotalentedcoder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=thenotsotalentedcoder&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=thenotsotalentedcoder&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5" height="180" alt="contribution streak"  />
 </div>
 
 ---
@@ -119,8 +114,6 @@ I'm a **Computer Science student** at NED University with a passion for building
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/malik-muzammil-arman)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malikmuzammilarman@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
-
 </div>
 
 ---
