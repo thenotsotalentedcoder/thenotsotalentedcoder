@@ -81,13 +81,14 @@ I'm a **Computer Science student** at NED University with a passion for building
 
 ---
 
-## 🎯 Current Focus
+## 🏆 Key Achievements
 
-🔥 **AI Research Assistant** building autonomous anomaly detection systems  
-🌐 **Full Stack Developer** creating scalable web applications  
-🚀 **Product Engineer** at HBL Innovation Center  
-📚 **Learning:** Advanced Transformers, LangGraph, System Design  
-🎯 **Interests:** Machine Learning, Web Development, Cybersecurity
+- 🚀 **Built production systems** serving **1000+ users** at NED University
+- 🤖 **Developed autonomous AI systems** processing **millions of IoT sensor logs**
+- 👨‍🏫 **Led GenAI Hackathon** and trained **50+ students** in AI/ML fundamentals
+- 💼 **Shipped major app releases** at **HBL Innovation Center** with rigorous QA
+- ⚡ **Created real-time platforms** with automated judging and live leaderboards
+- 🛡️ **Implemented threat detection** for DDoS, Backdoor, MITM, and XSS attacks
 
 ---
 
@@ -112,7 +113,7 @@ I'm a **Computer Science student** at NED University with a passion for building
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/malik-muzammil-arman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malik-muzammil-arman-b296102ba/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malikmuzammilarman@gmail.com)
 </div>
 
