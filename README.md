@@ -18,32 +18,43 @@ I'm a **Computer Science student** at NED University with a passion for building
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
-### 🤖 AI/ML & Data Science
+<div align="center">
+
+### 🤖 **AI/ML & Data Science**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
 ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### 💻 Full Stack Development
+### 💻 **Full Stack Development**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🔧 Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### ☁️ **Cloud & DevOps**
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🔧 **Tools & Databases**
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+</div>
 
 ---
 
@@ -77,27 +88,11 @@ I'm a **Computer Science student** at NED University with a passion for building
 
 ## 🎯 Current Focus
 
-```python
-class MalikMuzammil:
-    def __init__(self):
-        self.role = "AI Research Assistant & Full Stack Developer"
-        self.location = "Karachi, Pakistan"
-        self.current_projects = [
-            "Large-scale Anomaly Detection System",
-            "CSIT Connect Platform",
-            "Agentic AI Workflows"
-        ]
-        self.learning = ["Advanced Transformers", "LangGraph", "System Design"]
-        self.interests = ["Machine Learning", "Web Development", "Cybersecurity"]
-    
-    def get_daily_routine(self):
-        return {
-            "morning": "Building AI models",
-            "afternoon": "Developing web applications", 
-            "evening": "Contributing to open source",
-            "night": "Learning new technologies"
-        }
-```
+🔥 **AI Research Assistant** building autonomous anomaly detection systems  
+🌐 **Full Stack Developer** creating scalable web applications  
+🚀 **Product Engineer** at HBL Innovation Center  
+📚 **Learning:** Advanced Transformers, LangGraph, System Design  
+🎯 **Interests:** Machine Learning, Web Development, Cybersecurity
 
 ---
 
